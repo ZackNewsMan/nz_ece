@@ -1,4 +1,7 @@
 # nz_ece
+
+BusinessDesk published the piece using this data in July 2024: https://businessdesk.co.nz/article/daycare-dollars-whos-winning-and-losing?token=6681fae63a370&signature=e9310b53525bb6f933ec12b59497a06ecc3917877545f09352b6ab66d215784e
+
 BusinessDesk created a database to add depth to the ECE directory published by the Ministry of Education. A data journalist spent weeks identifying the ownership and funding of childcare centers throughout New Zealand by parsing through business rolls, real estate records and company websites. 
 
 DATA LIVES HERE: See “ece totals - r” for the bit you’re likely most interested in. 
